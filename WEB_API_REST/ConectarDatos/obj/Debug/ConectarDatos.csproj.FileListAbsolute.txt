@@ -1,0 +1,12 @@
+C:\Users\dhigu\source\repos\WEB_API_REST\ConectarDatos\bin\Debug\ConectarDatos.dll.config
+C:\Users\dhigu\source\repos\WEB_API_REST\ConectarDatos\bin\Debug\ConectarDatos.dll
+C:\Users\dhigu\source\repos\WEB_API_REST\ConectarDatos\bin\Debug\ConectarDatos.pdb
+C:\Users\dhigu\source\repos\WEB_API_REST\ConectarDatos\bin\Debug\EntityFramework.dll
+C:\Users\dhigu\source\repos\WEB_API_REST\ConectarDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dhigu\source\repos\WEB_API_REST\ConectarDatos\bin\Debug\EntityFramework.xml
+C:\Users\dhigu\source\repos\WEB_API_REST\ConectarDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dhigu\source\repos\WEB_API_REST\ConectarDatos\obj\Debug\ConectarDatos.csprojAssemblyReference.cache
+C:\Users\dhigu\source\repos\WEB_API_REST\ConectarDatos\obj\Debug\ConectarDatos.csproj.CoreCompileInputs.cache
+C:\Users\dhigu\source\repos\WEB_API_REST\ConectarDatos\obj\Debug\ConectarDatos.csproj.CopyComplete
+C:\Users\dhigu\source\repos\WEB_API_REST\ConectarDatos\obj\Debug\ConectarDatos.dll
+C:\Users\dhigu\source\repos\WEB_API_REST\ConectarDatos\obj\Debug\ConectarDatos.pdb

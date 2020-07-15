@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Actividad_API_RESTModelStoreContainer" CdmEntityContainer="Actividad_API_REST_Entities">
+    <EntitySetMapping Name="tablaCuentas">
+      <EntityTypeMapping TypeName="Actividad_API_RESTModel.tablaCuenta">
+        <MappingFragment StoreEntitySet="tablaCuentas">
+          <ScalarProperty Name="idCuenta" ColumnName="idCuenta" />
+          <ScalarProperty Name="usuarioCuenta" ColumnName="usuarioCuenta" />
+          <ScalarProperty Name="contraseñaCuenta" ColumnName="contraseñaCuenta" />
+          <ScalarProperty Name="nombreCuenta" ColumnName="nombreCuenta" />
+          <ScalarProperty Name="accesoCuenta" ColumnName="accesoCuenta" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
